@@ -1,0 +1,20 @@
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe.config
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.pdb
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.exe
+c:\users\steven\documents\visual studio 2015\Projects\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe.config
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe.config
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\bin\Debug\Prueba_Poo.pdb
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.csproj.AssemblyReference.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Programacion Orientado a Objetos\Consola\Prueba_Poo\Prueba_Poo\obj\Debug\Prueba_Poo.pdb
